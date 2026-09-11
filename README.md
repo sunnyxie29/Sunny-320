@@ -1,1 +1,1 @@
-# Sunny-320
+Repository for git setup, Sunny Xie
